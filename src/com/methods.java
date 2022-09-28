@@ -19,6 +19,9 @@ public class methods {
             return true;
         }
         return false;
+fghdfgh 
+sdfgsdfg
+fghxgh
     }
 }
 
